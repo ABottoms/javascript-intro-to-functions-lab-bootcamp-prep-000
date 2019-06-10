@@ -8,3 +8,4 @@ function shout (string)
   return string 
   string.toLowerCase 
 }
+console.log shout (string) toUpperCase
