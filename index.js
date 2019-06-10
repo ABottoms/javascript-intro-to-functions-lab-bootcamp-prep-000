@@ -6,5 +6,5 @@ function shout (string)
   function whisper (string)
 }
   return string 
-  string.to
+  string.toLowerCase 
 }
